@@ -50,7 +50,7 @@ tags:
 
 ***
 
-# 英文版：AI Collaboration & Archiving Protocol (可直接作为 System Prompt)
+# 英文版：`ai-collaboration-archiving-protocol.md` (可直接作为 System Prompt)
 
 ```markdown
 ---
